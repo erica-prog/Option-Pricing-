@@ -133,4 +133,6 @@ pythonplt.plot(opt_call1['strike'], opt_call1['impliedVolatility'])
 
 **Key Insight:** The 53% difference between Black-Scholes theoretical price and market price suggests either model assumptions (constant volatility, no dividends) don't capture real market dynamics, or the market is pricing in additional risk factors beyond the standard parameters.
 
+## Presentation Highlight
+
 ![Option pricing presentation](https://github.com/erica-prog/Option-Pricing-/blob/main/distribtion%20of%20strike%20prices%20(Option%20Pricing).png)
