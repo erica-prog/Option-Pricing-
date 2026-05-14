@@ -1,4 +1,4 @@
-# Black-Scholes Options Pricing (LSE Data Science Society MT Project Showcase) 
+# Black-Scholes Options Pricing 
 
 ## Process
 
